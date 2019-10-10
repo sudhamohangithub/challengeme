@@ -1,6 +1,7 @@
 
 Use Lombok to remove boilerplate code
 Use Swagger for api documentation and ui
+Use YAML configuration file for different profile
 
 
 Issue 1: Can not resolve symbol __
