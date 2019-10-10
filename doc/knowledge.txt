@@ -1,0 +1,9 @@
+
+Use Lombok to remove boilerplate code
+Use Swagger for api documentation and ui
+
+
+Issue 1: Can not resolve symbol __
+Solution: Install lombok pluggin in Intellij
+
+
