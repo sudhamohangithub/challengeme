@@ -5,4 +5,4 @@
 * YAML configuration file for different profile
 * Markdown for documentation 
 * H2 database for dev environment
-* 
+* JPA - Hibernate
